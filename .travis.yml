@@ -7,7 +7,7 @@
 matrix:
   include:
   # g++ builds
-  - os: linux
+  - os: windows
     addons:
       apt:
         sources:
